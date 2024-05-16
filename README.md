@@ -1,0 +1,1 @@
+# portfolio-testy-manualne
