@@ -1,6 +1,6 @@
 # portfolio-testy-manualne
 ## ABOUT ME
-I am young student with many technical skills. I am very motivated to become QA
+I took an individual course with Waldemar Szafraniec. I graduated from a bilingual class in high school (english and italian). I'm currently starting an internship at a software testing company. I enjoy doing puzzles, which develpoes my logical thinking and problem solving abilities. Despite my lack of work experience, I'm motivated to acquire new skills and develop myself.
 ## TOOLS
 * Jira
 * TestLink
